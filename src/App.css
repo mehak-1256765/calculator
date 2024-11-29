@@ -42,16 +42,14 @@ body{
   color:#fff;
   cursor:pointer;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+button{
+  border:none;
+  color:#fff;
+  margin:10px;
+  height:80px;
+  width:80px;
+  border-radius:50%;
+  background:transparent;
+  box-shadow:6px 6px 10px rgba(190,97,97,1), -6px -6px 10px rgba(190,97,97,1);
+  cursor:pointer;
 }

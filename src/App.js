@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+import logo from './logo.svg';
+>>>>>>> 828ebce7cfc8ec6f64da111eea40fdc6a59d04fe
 import React, { useState } from 'react';
 import './App.css';
 
@@ -99,3 +103,4 @@ const App = () => {
 };
 
 export default App;
+
